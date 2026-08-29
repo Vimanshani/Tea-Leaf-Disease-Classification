@@ -35,14 +35,6 @@ across 8 disease categories.
 - results/ — Evaluation charts and metrics
 - thesis/ — Final thesis document
 
-## Model Weights
-Model checkpoints are stored on Google Drive (not included 
-here due to file size limits).
-- [ResNet50 + ECA checkpoint](YOUR_DRIVE_LINK)
-- [MobileNetV2 + ECA checkpoint](YOUR_DRIVE_LINK)
-- [Feature Fusion checkpoint](YOUR_DRIVE_LINK)
-- [MobileNetV2 PyTorch Mobile (.ptl)](YOUR_DRIVE_LINK)
-
 ## Requirements
 - Python 3.10+
 - PyTorch 2.x
